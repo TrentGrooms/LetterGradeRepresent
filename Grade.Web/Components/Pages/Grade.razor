@@ -1,0 +1,25 @@
+﻿@page "/Grade"
+@using global::Grade.Common.Models
+@using global::Grade.Web.Services
+@inject GradeApiService GradeService
+@rendermode InteractiveServer
+
+<h3>Grade Calculator</h3>
+<input type="number" @bind="_percentage"/>
+<button @onclick="CalculateGrade">GetGrade</button>
+
+@if (response != null)
+{
+    <p>@response.OriginalPercentage</p>
+    <p>@response.LetterGrade</p>
+}
+@code {
+
+    private int _percentage;
+    private GradeResponse? response;
+
+    private async Task CalculateGrade()
+    {
+        response = await GradeService.GetGradeAsync(_percentage);
+    }
+}

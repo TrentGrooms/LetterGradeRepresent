@@ -1,0 +1,11 @@
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\bin\Debug\net10.0\Grade.Common.deps.json
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\bin\Debug\net10.0\Grade.Common.dll
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\bin\Debug\net10.0\Grade.Common.pdb
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\Grade.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\Grade.Common.AssemblyInfoInputs.cache
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\Grade.Common.AssemblyInfo.cs
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\Grade.Common.csproj.CoreCompileInputs.cache
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\Grade.Common.dll
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\refint\Grade.Common.dll
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\Grade.Common.pdb
+C:\Users\trent\RiderProjects\LetterGradeRepresent\Grade.Common\obj\Debug\net10.0\ref\Grade.Common.dll
